@@ -1,5 +1,6 @@
 code line with some strings:
 
+MAJOR LINE THAT CHANGES EVERYTHING - updates 2.0 that makes it less scary
 
 A
 
@@ -8,3 +9,15 @@ B
 C
 
 D
+
+// new code below
+
+99999
+
+F
+
+G
+
+H
+
+// new code above
